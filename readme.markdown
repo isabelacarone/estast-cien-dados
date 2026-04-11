@@ -1,10 +1,4 @@
 # EDA 
-
-**Disciplina:** Estatística de Ciência de Dados  
-**Instituição:** Universidade de Vila Velha (UVV)  
-**Projeto:** Análise Exploratória de Dados (EDA), UVVine Wine Club  
-**Dataset:** `table16.csv`, contendo mais de 1 milhão de registros de clientes
-
 ---
 
 ## Sobre o Projeto
