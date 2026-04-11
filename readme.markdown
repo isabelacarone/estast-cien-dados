@@ -13,26 +13,18 @@ O dataset contém **1.120.000 linhas** e **23 colunas**, incluindo dados demogr�
 
 ```
 estast-cien-dados/
-├── apostilas/               # Material da disciplina
-├── atividades/              # Atividades avaliativas 
+├── apostilas/               
+├── atividades/              
 │   ├── atividade1.ipynb
 │   ├── atividade2.ipynb
 │   ├── atividade3.ipynb
 │   └── atividade4.ipynb
 ├── data/
-│   └── table16.csv          # Dataset principal (não versionado — >100MB)
-├── figures/                 # Figuras geradas pela análise
-│   ├── fig01_distribuicao_target.png
-│   ├── fig02_pareto_qualitativas.png
-│   ├── fig03_bootstrap_convergencia.png
-│   ├── fig04_boxplots_variaveis_x.png
-│   ├── fig05_parametros_forma_target.png
-│   ├── fig06_correlacao_features_target.png
-│   └── fig07_heatmap_correlacoes.png
-├── venv/                    # Ambiente virtual Python
+│   └── table16.csv         
+├── figures/                 
+├── venv/                   
 ├── .gitignore
 ├── requirements.txt
-├── WORKFLOW - PARTE 1.ipynb # Notebook principal do projeto
 └── readme.md
 ```
 
